@@ -30,11 +30,11 @@ Call https://localhost:8080/domain/springresttest/editProduct by Put method and 
 }
 and add Authorization header in request like this "Authorization:Bearer eyJhbGciOiJIUzUxMiJ9"
 
-####4) Delete Product
+####5) Delete Product
 
 Call https://localhost:8080/domain/springresttest/deleteProduct/1 by Delete method and add Authorization header in request like this "Authorization:Bearer eyJhbGciOiJIUzUxMiJ9"
 
-####5) Get Product by Id
+####6) Get Product by Id
 
 Call https://localhost:8080/domain/springresttest/prid/1 by Get method and add Authorization header in request like this "Authorization:Bearer eyJhbGciOiJIUzUxMiJ9"
 
